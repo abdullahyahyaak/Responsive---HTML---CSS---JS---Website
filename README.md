@@ -1,2 +1,0 @@
-# EGATOR-copy
-Egator-copy
